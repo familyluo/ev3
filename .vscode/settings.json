@@ -2,7 +2,7 @@
     "files.eol": "\n",
     "ev3devBrowser.download.exclude": "{**/.*,LICENSE,README.md}",
     "terminal.integrated.shell.windows": "cmd.exe",
-    "python.pythonPath": "/Users/james/anaconda/envs/ev3/bin/python",
+    "python.pythonPath": "/Users/james/anaconda/bin/python3",
     "python.autoComplete.extraPaths": ["/Users/james/anaconda/envs/ev3"],
     "python.jediEnabled": true,
     "python.languageServer": "Jedi"
